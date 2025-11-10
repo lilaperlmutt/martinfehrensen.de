@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://lilaperlmutt.github.io/martinfehrensen.de/sitemap.xml
+Sitemap: https://martinfehrensen.de/sitemap.xml
